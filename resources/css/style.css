@@ -27,3 +27,13 @@ p{
 a{
     color: aquamarine;
 }
+
+video{
+    display: block;
+    margin: 1rem auto;
+}
+
+img{
+    display: block;
+    margin: 1rem auto;
+}
